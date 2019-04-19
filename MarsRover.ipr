@@ -17,7 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/MarsRover.iml" filepath="$PROJECT_DIR$/MarsRover.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="VcsDirectoryMappings">
@@ -28,6 +28,8 @@
       <properties maven-id="org.scalamock:scalamock-core_2.12:3.6.0" />
       <CLASSES>
         <root url="jar://$PROJECT_DIR$/lib/scalamock-core_2.12-3.6.0.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.1.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.12.1.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
